@@ -1,0 +1,13 @@
+git add -A
+git commit
+git push
+
+
+git clone <url>
+git pull
+git merge
+
+
+git branch -b <branchname>
+
+git checkout <branchname>
